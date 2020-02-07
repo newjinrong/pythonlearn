@@ -1,1 +1,1 @@
-git is a free tools
+git is free software.
